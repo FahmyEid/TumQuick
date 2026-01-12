@@ -1,0 +1,12 @@
+class AppAssets {
+  static const String imagePath = "images/";
+  static const String svgPath = "assets/svg/";
+  static const String yellowAppLogo = "${svgPath}yellowAppLogo.svg";
+  static const String onBoarding1 = "${imagePath}onboarding1.png";
+  static const String onBoarding2 = "${imagePath}onboarding2.png";
+    static const String onBoarding3 = "${imagePath}onboarding3.png";
+    static const String transferIcon = "${imagePath}Transfericon.png";
+      static const String cardIcon = "${imagePath}cardicon.png";
+        static const String deliverBoyIcon = "${imagePath}deliverBoyIcon.png";
+
+}
