@@ -162,7 +162,9 @@ class _LoginViewState extends State<LoginView> {
                                       const SnackBar(
                                         content: Text("Login failed"),
                                       ),
+
                                     );
+                                    
                                   }
                                 },
                                 color: AppColors.orangeBase,
